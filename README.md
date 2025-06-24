@@ -11,8 +11,6 @@ This project implements a **2-3-4 Tree** (also known as a 4-way tree) in C#, inc
 
 Additionally, it includes a method to **convert the 2-3-4 Tree into a Red-Black Tree**, reflecting its logical equivalence and showcasing binary search tree behavior.
 
-This project was developed as part of an advanced Data Structures and Algorithms course.
-
 ---
 
 ## 🚀 Features
